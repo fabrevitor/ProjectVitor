@@ -24,7 +24,9 @@ import cz.msebera.android.httpclient.entity.mime.Header;
 
 public class MainControl {
     private MainActivity activity;
-    private static Double cotacaoDolar;
+    // Deixei default 5.0 para não estourar erro
+    //TODO Implementar API que busca valor do Dólar (verificar, já tem algo desenvolvido, precisa ajustar)
+    private static Double cotacaoDolar = 5.0;
     private ArrayAdapter<Produto> adapterProdutos;
     private List<Produto> listProdutos;
 
