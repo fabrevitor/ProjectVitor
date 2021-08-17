@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fabre - Produtos</string>
+    <string name="hint_nome">Digite o Nome</string>
+    <string name="nome_produto">Nome produto</string>
+    <string name="valor">Valor (R$)</string>
+    <string name="hint_valor">Digite o valor (R$)</string>
+    <string name="erro_nome">Nome invalido</string>
+    <string name="erro_valor">Valor invalido</string>
+    <string name="produto">Produto</string>
+    <string name="estoque">Estoque</string>
+    <string name="hint_estoque">Digite número de peças no estoque</string>
+    <string name="salvar">salvar</string>
+    <string name="limpar_dados">Limpar Dados</string>
+    <string name="media">Media</string>
+    <string name="erro_estoque">Número de peças do estoque inválido</string>
+    <string name="valorTotal">Valor Total</string>
+</resources>
